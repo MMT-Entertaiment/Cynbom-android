@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cynbom</string>
+    <string name="accueil">Accueil</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="parametres">Paramètres</string>
+    <string name="chargement">Chargement...</string>
+    <string name="erreur">Erreur de chargement</string>
+    <string name="aucun_contenu">Aucun contenu</string>
+    <string name="recherche_placeholder">Rechercher une série...</string>
+    <string name="conditions_utilisation">Conditions d\'utilisation</string>
+    <string name="version">Version</string>
+</resources>
